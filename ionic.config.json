@@ -1,0 +1,7 @@
+{
+  "name": "lights",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
